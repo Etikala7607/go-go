@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+# Ignore system and user-specific files and directories
+*go.mod
+*go.sum
+=======
+*pkg/
+>>>>>>> origin/main
